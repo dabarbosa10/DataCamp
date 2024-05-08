@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "Jttbar.C": "cpp"
+        "Jttbar.C": "cpp",
+        "Test17.C": "cpp"
     }
 }
